@@ -1,4 +1,4 @@
-package appbrewery.i_am_rich_lab5
+package appbrewery.erdau
 
 import io.flutter.embedding.android.FlutterActivity
 
